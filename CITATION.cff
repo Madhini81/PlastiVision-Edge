@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper below."
+title: "PlastiVision-Edge: code, pilot data and the Plastic Waste Vocabulary Ontology (PWVO)"
+type: software
+authors:
+  - family-names: Balasundaram
+    given-names: Madhini
+  - family-names: Perumal
+    given-names: Supraja
+license: MIT
+repository-code: "https://github.com/Madhini81/PlastiVision-Edge"
+preferred-citation:
+  type: article
+  title: "A PlastiVision-Edge Enabled Plastic Waste Bank Framework for Community Income Generation and Circular Economy Transition in Rural and Urban India"
+  authors:
+    - family-names: Balasundaram
+      given-names: Madhini
+    - family-names: Perumal
+      given-names: Supraja
+  journal: "Sustainability"
+  status: "in-review"
