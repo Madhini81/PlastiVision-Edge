@@ -1,0 +1,8 @@
+data/taco/images/
+data/taco/labels/
+data/trashnet/
+# data/zeroshot_images/, data/negative_controls/ and data/figure_images/ are the authors' own photographs: commit them.
+exports/*.pt
+exports/*_saved_model/
+*.pt
+.ipynb_checkpoints/
