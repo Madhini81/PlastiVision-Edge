@@ -1,0 +1,284 @@
+{
+  "pet_bottle": {
+    "prompt": "a plastic drinking bottle with cylindrical shape and screw cap, transparent or semi-transparent body, may have a coloured printed label, commonly used for water or soft drinks",
+    "super": "PET/Polyester",
+    "covered": true,
+    "prompt_long": "a plastic drinking bottle with cylindrical shape and screw cap, transparent or semi-transparent body, may have a coloured printed label, commonly used for water or soft drinks"
+  },
+  "pet_tray": {
+    "prompt": "clear or lightly tinted rigid PET plastic tray, flat rectangular or oval base with a shallow raised rim, smooth hard surface, used for food packaging",
+    "super": "PET/Polyester",
+    "covered": false,
+    "prompt_long": "clear or lightly tinted rigid PET plastic tray, flat rectangular or oval base with a shallow raised rim, smooth hard surface, used for food packaging"
+  },
+  "pet_clamshell": {
+    "prompt": "hinged transparent plastic clamshell container for fruit",
+    "super": "PET/Polyester",
+    "covered": true,
+    "prompt_long": "hinged transparent rigid plastic clamshell container with a snap-close lid, glossy clear walls, shallow rectangular shape, used for packaging fruit, berries or salad"
+  },
+  "pet_film": {
+    "prompt": "thin crinkled transparent polyester plastic film sheet",
+    "super": "PET/Polyester",
+    "covered": true,
+    "prompt_long": "thin crinkled transparent polyester plastic film sheet, glossy and slightly stiff, crumpled or folded with sharp creases, discarded flat or loosely balled"
+  },
+  "pet_blister_tray": {
+    "prompt": "formed rigid transparent plastic blister tray packaging",
+    "super": "PET/Polyester",
+    "covered": true,
+    "prompt_long": "formed rigid transparent plastic blister tray with moulded compartments and a flat rim, glossy clear surface, used to hold and display packaged products"
+  },
+  "polyester_fabric": {
+    "prompt": "synthetic polyester fabric scrap shiny and woven",
+    "super": "PET/Polyester",
+    "covered": true,
+    "prompt_long": "scrap of synthetic polyester fabric, shiny woven or knitted textile surface with a visible weave, soft flexible cloth offcut, often creased or frayed at the edges"
+  },
+  "pet_strap": {
+    "prompt": "flat transparent or blue plastic packing strap banding",
+    "super": "PET/Polyester",
+    "covered": true,
+    "prompt_long": "flat narrow plastic packing strap or banding, smooth glossy surface, transparent or blue or green colour, long ribbon-like shape often coiled or cut into lengths"
+  },
+  "pet_bottle_cap": {
+    "prompt": "small plastic bottle cap round coloured on ground",
+    "super": "PET/Polyester",
+    "covered": true,
+    "prompt_long": "small round plastic bottle cap with a ridged edge and screw thread inside, brightly coloured, lying on the ground, much smaller than the bottle it came from"
+  },
+  "carrier_bag": {
+    "prompt": "crumpled transparent or white plastic carrier bag discarded",
+    "super": "HDPE/LDPE film",
+    "covered": true,
+    "prompt_long": "crumpled thin transparent or white plastic carrier bag with two loop handles, loosely wrinkled and translucent, discarded on the ground or caught on vegetation"
+  },
+  "cling_film": {
+    "prompt": "thin transparent plastic cling wrap food wrapping film",
+    "super": "HDPE/LDPE film",
+    "covered": false,
+    "prompt_long": "very thin transparent plastic cling wrap clinging to itself in wrinkled folds, glossy clear film with no fixed shape, used for wrapping food, often balled or stretched"
+  },
+  "bubble_wrap": {
+    "prompt": "clear plastic sheet covered in a regular grid of small raised circular air-filled bubbles, cushioning padding texture, distinct bubble pattern across the entire surface",
+    "super": "HDPE/LDPE film",
+    "covered": false,
+    "prompt_long": "clear plastic sheet covered in a regular grid of small raised circular air-filled bubbles, cushioning padding texture, distinct bubble pattern across the entire surface"
+  },
+  "shrink_wrap": {
+    "prompt": "thin clear plastic film heat-sealed tightly around the exact contour of a cylindrical or boxed object, taut and smooth with no looseness, visible seam line",
+    "super": "HDPE/LDPE film",
+    "covered": false,
+    "prompt_long": "thin clear plastic film heat-sealed tightly around the exact contour of a cylindrical or boxed object, taut and smooth with no looseness, visible seam line"
+  },
+  "hdpe_bottle": {
+    "prompt": "an opaque white or coloured plastic bottle with thick walls, used for milk, detergent or shampoo, cylindrical or oval shape with screw cap",
+    "super": "HDPE/LDPE film",
+    "covered": true,
+    "prompt_long": "an opaque white or coloured plastic bottle with thick walls, used for milk, detergent or shampoo, cylindrical or oval shape with screw cap"
+  },
+  "plastic_bag": {
+    "prompt": "coloured thin plastic shopping bag crumpled outdoors",
+    "super": "HDPE/LDPE film",
+    "covered": true,
+    "prompt_long": "coloured thin plastic shopping bag, crumpled and wrinkled outdoors, soft flexible film with handles or a knotted top, often printed with shop branding"
+  },
+  "bread_bag": {
+    "prompt": "clear plastic bag used for bread packaging tied at top",
+    "super": "HDPE/LDPE film",
+    "covered": true,
+    "prompt_long": "clear thin plastic bag used for packaging bread, loosely filled or empty, tied or clipped at the top with a plastic tag, transparent film with crinkles"
+  },
+  "ldpe_film_sheet": {
+    "prompt": "large flat thin polyethylene plastic film sheet on ground",
+    "super": "HDPE/LDPE film",
+    "covered": true,
+    "prompt_long": "large flat thin polyethylene plastic film sheet lying on the ground, smooth translucent or opaque sheet with wide folds, used for covering, wrapping or agricultural mulch"
+  },
+  "ziplock_bag": {
+    "prompt": "small resealable transparent zip-lock plastic bag",
+    "super": "HDPE/LDPE film",
+    "covered": true,
+    "prompt_long": "small transparent resealable zip-lock plastic bag with a visible interlocking grip strip along the top, clear flexible film, flat or slightly wrinkled"
+  },
+  "produce_bag": {
+    "prompt": "thin perforated transparent plastic produce bag from supermarket",
+    "super": "HDPE/LDPE film",
+    "covered": true,
+    "prompt_long": "thin transparent plastic produce bag from a supermarket, lightweight and clear, rolled or crumpled, with small perforations or a twist-tie top"
+  },
+  "trash_bag": {
+    "prompt": "large black or dark green plastic bin liner trash bag",
+    "super": "HDPE/LDPE film",
+    "covered": true,
+    "prompt_long": "large black or dark green plastic bin liner trash bag, thick glossy opaque film, knotted at the top, often bulging when filled with waste"
+  },
+  "pp_food_container": {
+    "prompt": "opaque white or coloured rigid polypropylene food container with lid",
+    "super": "Polypropylene",
+    "covered": true,
+    "prompt_long": "opaque white or coloured rigid polypropylene food container with a snap-on lid, smooth matte walls, rectangular or round tub shape, used for takeaway or storage"
+  },
+  "yoghurt_pot": {
+    "prompt": "small opaque plastic yoghurt pot with foil lid",
+    "super": "Polypropylene",
+    "covered": true,
+    "prompt_long": "small opaque plastic yoghurt pot, tapered cup shape with a thin rim, white or coloured, often with a torn foil lid and a printed label"
+  },
+  "woven_pp_sack": {
+    "prompt": "woven white polypropylene rice or grain sack",
+    "super": "Polypropylene",
+    "covered": false,
+    "prompt_long": "opaque white sack made of thick woven crosshatch plastic strands, coarse fabric-like texture, stiff structured sack shape with flat bottom, not a thin flimsy bag"
+  },
+  "pp_bottle_cap": {
+    "prompt": "coloured polypropylene bottle cap or flip-top closure",
+    "super": "Polypropylene",
+    "covered": true,
+    "prompt_long": "coloured polypropylene bottle cap or flip-top closure, small round hard plastic lid with a hinged or threaded design, found separately from its bottle"
+  },
+  "straw": {
+    "prompt": "a thin elongated plastic drinking straw, cylindrical and hollow, coloured or transparent, typically found near drinks or discarded on ground",
+    "super": "Polypropylene",
+    "covered": true,
+    "prompt_long": "a thin elongated plastic drinking straw, cylindrical and hollow, coloured or transparent, typically found near drinks or discarded on ground"
+  },
+  "pp_cup": {
+    "prompt": "rigid opaque polypropylene disposable cup for hot drinks",
+    "super": "Polypropylene",
+    "covered": true,
+    "prompt_long": "rigid opaque polypropylene disposable cup for hot drinks, tapered cylindrical shape with a rolled rim, smooth matte walls, white or coloured, often with a printed pattern"
+  },
+  "cutlery": {
+    "prompt": "disposable plastic fork knife or spoon white or coloured",
+    "super": "Polypropylene",
+    "covered": true,
+    "prompt_long": "disposable plastic fork, knife or spoon, rigid thin handle with a moulded head, white or coloured, lying singly or in small groups on the ground"
+  },
+  "pp_tub": {
+    "prompt": "wide-mouth opaque polypropylene tub for margarine or cream",
+    "super": "Polypropylene",
+    "covered": true,
+    "prompt_long": "wide-mouth opaque polypropylene tub for margarine or cream, short round container with a thick rim and a snap-on lid, white or coloured with a printed label"
+  },
+  "pp_woven_bag": {
+    "prompt": "flat woven polypropylene bag for cement or fertiliser",
+    "super": "Polypropylene",
+    "covered": true,
+    "prompt_long": "flat woven polypropylene bag for cement or fertiliser, coarse crosshatch strands, stiff rectangular sack shape, often printed with large lettering, white or coloured"
+  },
+  "eps_foam_cup": {
+    "prompt": "a white expanded polystyrene foam disposable cup with grainy white texture, cylindrical shape, used for hot drinks or instant noodles",
+    "super": "Polystyrene/EPS",
+    "covered": true,
+    "prompt_long": "a white expanded polystyrene foam disposable cup with grainy white texture, cylindrical shape, used for hot drinks or instant noodles"
+  },
+  "eps_takeaway_box": {
+    "prompt": "a white expanded polystyrene foam takeaway food container or clamshell box with grainy white texture, rectangular shape with flat or hinged lid",
+    "super": "Polystyrene/EPS",
+    "covered": true,
+    "prompt_long": "a white expanded polystyrene foam takeaway food container or clamshell box with grainy white texture, rectangular shape with flat or hinged lid"
+  },
+  "eps_block": {
+    "prompt": "large block of white expanded polystyrene foam packaging",
+    "super": "Polystyrene/EPS",
+    "covered": false,
+    "prompt_long": "large block of white expanded polystyrene foam packaging, grainy bead-like texture, lightweight rectangular shape with moulded cavities and crumbling edges"
+  },
+  "eps_tray": {
+    "prompt": "white polystyrene foam supermarket meat or vegetable tray",
+    "super": "Polystyrene/EPS",
+    "covered": true,
+    "prompt_long": "white polystyrene foam supermarket tray for meat or vegetables, shallow rectangular shape with a raised rim, grainy matte surface, often stained"
+  },
+  "eps_fragment": {
+    "prompt": "broken white polystyrene foam pieces scattered on ground",
+    "super": "Polystyrene/EPS",
+    "covered": true,
+    "prompt_long": "broken white polystyrene foam pieces of irregular size scattered on the ground, grainy bead-like texture, lightweight crumbly chunks with rough broken edges"
+  },
+  "eps_sheet": {
+    "prompt": "flat sheet of white polystyrene foam insulation board",
+    "super": "Polystyrene/EPS",
+    "covered": true,
+    "prompt_long": "flat sheet of white polystyrene foam insulation board, smooth grainy surface, uniform thickness with straight or snapped edges, rigid but lightweight"
+  },
+  "ps_plastic_cup": {
+    "prompt": "clear rigid polystyrene transparent disposable plastic cup",
+    "super": "Polystyrene/EPS",
+    "covered": true,
+    "prompt_long": "clear rigid polystyrene disposable plastic cup, transparent glossy walls, tapered cylindrical shape with a thin rim, used for cold drinks, brittle and often cracked"
+  },
+  "chip_packet": {
+    "prompt": "shiny metallic-laminate chip or crisp snack packet discarded",
+    "super": "Multilayer/composite",
+    "covered": true,
+    "prompt_long": "shiny metallic-laminate chip or crisp snack packet, crinkled foil-like surface with bright printed graphics, heat-sealed edges, flat or puffed, discarded"
+  },
+  "retort_pouch": {
+    "prompt": "highly reflective gold or silver metallic foil-laminate pouch, mirror-like shiny surface, flexible with heat-sealed edges, noticeably more reflective than plain plastic film",
+    "super": "Multilayer/composite",
+    "covered": false,
+    "prompt_long": "highly reflective gold or silver metallic foil-laminate pouch, mirror-like shiny surface, flexible with heat-sealed edges, noticeably more reflective than plain plastic film"
+  },
+  "blister_pack": {
+    "prompt": "pharmaceutical blister pack with aluminium foil and plastic bubbles",
+    "super": "Multilayer/composite",
+    "covered": false,
+    "prompt_long": "pharmaceutical blister pack with a sheet of aluminium foil on one side and rows of transparent plastic bubbles holding tablets, flat rectangular strip"
+  },
+  "tetra_pak": {
+    "prompt": "rectangular Tetra Pak cardboard and plastic juice carton",
+    "super": "Multilayer/composite",
+    "covered": true,
+    "prompt_long": "rectangular Tetra Pak carton for juice or milk, rigid cardboard-like body with plastic and aluminium lining, printed graphics, folded flat top and a screw cap or straw hole"
+  },
+  "multilayer_film": {
+    "prompt": "crumpled multilayer flexible plastic film from food packaging",
+    "super": "Multilayer/composite",
+    "covered": false,
+    "prompt_long": "crumpled thin flexible plastic film with multiple bonded layers visible as a laminate, loosely wrinkled sheet from food packaging, distinct from a rigid woven sack, a standing sealed pouch, or a coiled rope"
+  },
+  "coffee_pod": {
+    "prompt": "small single-use plastic and aluminium coffee pod capsule",
+    "super": "Multilayer/composite",
+    "covered": true,
+    "prompt_long": "small single-use coffee pod capsule, short cylindrical plastic cup with an aluminium foil lid and a ridged rim, often dark coloured and stained"
+  },
+  "microplastic_frag": {
+    "prompt": "small coloured plastic fragment chip or pellet on ground",
+    "super": "Other",
+    "covered": false,
+    "prompt_long": "small coloured plastic fragment, chip or pellet a few millimetres across, hard irregular or rounded shape, bright colour against soil, sand or pavement"
+  },
+  "rubber_band": {
+    "prompt": "small thin circular elastic rubber loop, brightly coloured (red, yellow, green, orange), stretchable band, often several bunched together in a small pile",
+    "super": "Other",
+    "covered": false,
+    "prompt_long": "small thin circular elastic rubber loop, brightly coloured (red, yellow, green, orange), stretchable band, often several bunched together in a small pile"
+  },
+  "synthetic_rope": {
+    "prompt": "thick multi-strand twisted or braided plastic cord, coiled in loops, individual fibres may fray at the cut ends, white grey or blue colour, rope-like texture distinct from flat film or fabric",
+    "super": "Other",
+    "covered": false,
+    "prompt_long": "thick multi-strand twisted or braided plastic cord, coiled in loops, individual fibres may fray at the cut ends, white grey or blue colour, rope-like texture distinct from flat film or fabric"
+  },
+  "pvc_pipe": {
+    "prompt": "rigid hollow cylindrical tube with hard smooth uniform-diameter walls, straight pipe shape, may have a socket joint at one end, distinctly rigid unlike flexible film or sheet",
+    "super": "Other",
+    "covered": false,
+    "prompt_long": "rigid hollow cylindrical tube with hard smooth uniform-diameter walls, straight pipe shape, may have a socket joint at one end, distinctly rigid unlike flexible film or sheet"
+  },
+  "cable_tie": {
+    "prompt": "small black or white plastic zip tie cable fastener",
+    "super": "Other",
+    "covered": true,
+    "prompt_long": "small black or white plastic zip tie cable fastener, thin ribbed strap with a square locking head, often looped closed or cut open, lying on the ground"
+  },
+  "plastic_sticker": {
+    "prompt": "peeled plastic label or sticker sheet discarded",
+    "super": "Other",
+    "covered": true,
+    "prompt_long": "peeled plastic label or sticker sheet, thin glossy adhesive-backed film with printed graphics, curled or creased edges, discarded or stuck to a surface"
+  }
+}
