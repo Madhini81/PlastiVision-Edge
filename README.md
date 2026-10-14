@@ -1,6 +1,6 @@
 # PlastiVision-Edge
 
-Code and data pointers for *PlastiVision-Edge: A Zero-Shot Open-Vocabulary Framework for Real-Time Plastic Waste Detection and Instance Segmentation on Edge Devices* (M. Balasundaram, S. Perumal).
+Code and data pointers for *A PlastiVision-Edge Enabled Plastic Waste Bank Framework for Community Income Generation and Circular Economy Transition in Rural and Urban India* (M. Balasundaram, S. Perumal).
 
 The whole pipeline is one notebook, `PlastiVision_Edge.ipynb`. It uses pretrained YOLOE-26 checkpoints from Ultralytics **without fine-tuning**; all the work is in the Plastic Waste Vocabulary Ontology (PWVO) prompts and the evaluation protocol.
 
@@ -10,6 +10,8 @@ The whole pipeline is one notebook, `PlastiVision_Edge.ipynb`. It uses pretraine
 PlastiVision_Edge.ipynb     the notebook (outputs cleared)
 requirements.txt            versions used
 CLEANUP_LOG.md              what changed relative to the working notebook, and why
+CITATION.cff                how to cite
+pwvo/                       the 47-category ontology (JSON) and the TACO-to-PWVO mapping
 data/
   README.md                 expected file names for the authors' photographs
   zeroshot_images/          replicate photographs of the 13 benchmark-uncovered categories
@@ -58,4 +60,4 @@ Code: MIT (`LICENSE`). The authors' photographs and the urban pilot data: CC BY 
 
 ## Citation
 
-Balasundaram, M.; Perumal, S. PlastiVision-Edge: A Zero-Shot Open-Vocabulary Framework for Real-Time Plastic Waste Detection and Instance Segmentation on Edge Devices. *Sustainability* (under review).
+Balasundaram, M.; Perumal, S. A PlastiVision-Edge Enabled Plastic Waste Bank Framework for Community Income Generation and Circular Economy Transition in Rural and Urban India. *Sustainability* (under review).
