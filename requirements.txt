@@ -1,0 +1,14 @@
+# Versions used for the reported results (Google Colab, NVIDIA T4, Python 3.13).
+# PyTorch/torchvision/numpy/pandas/matplotlib come preinstalled on Colab; on a local machine install a CUDA build of PyTorch first.
+ultralytics==8.4.177
+torch>=2.0            # 2.11.0+cu130 used
+opencv-python-headless
+pycocotools
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+requests
+pillow
+kaggle                # only for the TrashNet download in Part 7
